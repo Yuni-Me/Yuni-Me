@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Hi, I'm Yunia!</h1>
+<p><a></a></p>
+<p>I am a veteran of the United States ARMY. From being a soldier to writing code, it's been an amazing journey.</p>
