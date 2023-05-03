@@ -1,5 +1,13 @@
-### Hi, I'm Yunia! 👋
+### Hi 👋,  I'm Yunia Matamoros and I'm a Software Engineer 
 
+<p>I am a veteran of the United States ARMY. From being a soldier to writing code, it's been an amazing journey.</p>
+I am a Full Stack MERN Developer, Women Who Code member. I speak English and Spanish.
+I Graduated from Practicum by Yandex as a Full Stack Web Developer MERN online Bootcamp. 
+<!-- During my leanring journey I helped other students with questions related to the course/sprints assignements and projects. -->
+<p>The curricullum provides a wide range of projects based on the following Full Stack Development technologies: 
+HTML5, CSS3, flexbox, grid layout, BEM, Media queries, transition, JavaScript/JSX, DOM, Debugging, Git, Git/Github, Figma, Form validation, OOP, Webpack, NPM, React, React components, React Hooks, Node.js, Express.js, Database, MongoDB, Mongoose, API, Microsoft Azure Cloud, AWS, Google Cloud backend deployment.</p>
+
+- 🌱 I’m currently learning Spring Boot
 <!--
 **Yuni-Me/Yuni-Me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>I am a veteran of the United States ARMY. From being a soldier to writing code, it's been an amazing journey.</p>
+
